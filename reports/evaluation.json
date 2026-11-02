@@ -1,0 +1,20 @@
+{
+  "dataset": "18 synthetic exemption-style PDFs, generated, not legally valid",
+  "document_count": 18,
+  "pages": 22,
+  "field_count": 126,
+  "field_exact_match": 1.0,
+  "field_errors": [],
+  "review_flag_accuracy": 1.0,
+  "retrieval_questions": 18,
+  "retrieval_recall_at_1": 1.0,
+  "retrieval_recall_at_3": 1.0,
+  "retrieval_mrr_at_10": 1.0,
+  "no_evidence_abstention_on_one_synthetic_negative": true,
+  "mean_pdf_parse_extract_ms": 2.995,
+  "mean_retrieval_ms": 0.0937,
+  "retrieval_backend": "actual BM25 + dense hashed lexical vectors + RRF (NOT neural semantic embeddings)",
+  "as_of": "2026-11-02",
+  "python_version": "3.12.14",
+  "limitations": "Synthetic native PDFs, deterministic templates; no OCR quality, open-world compliance, or legal validity claims."
+}

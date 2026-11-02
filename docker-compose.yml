@@ -1,0 +1,14 @@
+services:
+  api:
+    build: .
+    ports: ["127.0.0.1:8001:8000"]
+    environment:
+      CERTFLOW_API_KEY: ${CERTFLOW_API_KEY:-}
+      CERTFLOW_EMBEDDINGS: ${CERTFLOW_EMBEDDINGS:-hash}
+    volumes: ["certflow_runtime:/app/runtime"]
+    restart: unless-stopped
+    read_only: true
+    tmpfs: [/tmp]
+    security_opt: ["no-new-privileges:true"]
+volumes:
+  certflow_runtime:

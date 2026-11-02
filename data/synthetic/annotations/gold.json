@@ -1,0 +1,254 @@
+[
+  {
+    "file": "demo-001.pdf",
+    "fields": {
+      "document_id": "demo-001",
+      "certificate_number": "DEMO-CERT-1000",
+      "seller": "Acme Timber Supplies",
+      "buyer": null,
+      "jurisdiction": "CA",
+      "issue_date": "2025-01-10",
+      "expiry_date": "2024-01-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": true
+  },
+  {
+    "file": "demo-002.pdf",
+    "fields": {
+      "document_id": "demo-002",
+      "certificate_number": "DEMO-CERT-1001",
+      "seller": "Harbor Bay Wholesale",
+      "buyer": "Summit Trading LLC",
+      "jurisdiction": "NY",
+      "issue_date": "2025-02-10",
+      "expiry_date": "2028-02-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-003.pdf",
+    "fields": {
+      "document_id": "demo-003",
+      "certificate_number": "DEMO-CERT-1002",
+      "seller": "Cedar Peak Outfitters",
+      "buyer": "Lighthouse Commerce LLC",
+      "jurisdiction": "TX",
+      "issue_date": "2025-03-10",
+      "expiry_date": "2028-03-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-004.pdf",
+    "fields": {
+      "document_id": "demo-004",
+      "certificate_number": "DEMO-CERT-1003",
+      "seller": "Blue Canyon Devices",
+      "buyer": "Beacon Retail LLC",
+      "jurisdiction": "WA",
+      "issue_date": "2025-04-10",
+      "expiry_date": "2028-04-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-005.pdf",
+    "fields": {
+      "document_id": "demo-005",
+      "certificate_number": "DEMO-CERT-1004",
+      "seller": "Northstar Artisan Foods",
+      "buyer": "Summit Trading LLC",
+      "jurisdiction": "CO",
+      "issue_date": "2025-05-10",
+      "expiry_date": "2028-05-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-006.pdf",
+    "fields": {
+      "document_id": "demo-006",
+      "certificate_number": "DEMO-CERT-1005",
+      "seller": "Delta Creek Stationery",
+      "buyer": "Lighthouse Commerce LLC",
+      "jurisdiction": "FL",
+      "issue_date": "2025-06-10",
+      "expiry_date": "2028-06-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-007.pdf",
+    "fields": {
+      "document_id": "demo-007",
+      "certificate_number": "DEMO-CERT-1006",
+      "seller": "Pine Valley Hardware",
+      "buyer": "Beacon Retail LLC",
+      "jurisdiction": "CA",
+      "issue_date": "2025-07-10",
+      "expiry_date": "2028-07-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-008.pdf",
+    "fields": {
+      "document_id": "demo-008",
+      "certificate_number": "DEMO-CERT-1007",
+      "seller": "Riverbend Office Traders",
+      "buyer": "Summit Trading LLC",
+      "jurisdiction": "NY",
+      "issue_date": "2025-08-10",
+      "expiry_date": "2024-08-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": true
+  },
+  {
+    "file": "demo-009.pdf",
+    "fields": {
+      "document_id": "demo-009",
+      "certificate_number": "DEMO-CERT-1008",
+      "seller": "Solar Finch Imports",
+      "buyer": "Lighthouse Commerce LLC",
+      "jurisdiction": "TX",
+      "issue_date": "2025-09-10",
+      "expiry_date": "2028-09-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-010.pdf",
+    "fields": {
+      "document_id": "demo-010",
+      "certificate_number": "DEMO-CERT-1009",
+      "seller": "Cloudtop Retailers",
+      "buyer": null,
+      "jurisdiction": "WA",
+      "issue_date": "2025-10-10",
+      "expiry_date": "2028-10-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": true
+  },
+  {
+    "file": "demo-011.pdf",
+    "fields": {
+      "document_id": "demo-011",
+      "certificate_number": "DEMO-CERT-1010",
+      "seller": "Birch Trail Apparel",
+      "buyer": "Summit Trading LLC",
+      "jurisdiction": "CO",
+      "issue_date": "2025-11-10",
+      "expiry_date": "2028-11-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-012.pdf",
+    "fields": {
+      "document_id": "demo-012",
+      "certificate_number": "DEMO-CERT-1011",
+      "seller": "Meadowfield Garden Goods",
+      "buyer": "Lighthouse Commerce LLC",
+      "jurisdiction": "FL",
+      "issue_date": "2025-12-10",
+      "expiry_date": "2028-12-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-013.pdf",
+    "fields": {
+      "document_id": "demo-013",
+      "certificate_number": "DEMO-CERT-1012",
+      "seller": "Juniper Housewares",
+      "buyer": "Beacon Retail LLC",
+      "jurisdiction": "CA",
+      "issue_date": "2025-01-10",
+      "expiry_date": "2028-01-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-014.pdf",
+    "fields": {
+      "document_id": "demo-014",
+      "certificate_number": "DEMO-CERT-1013",
+      "seller": "Marigold Paper Co",
+      "buyer": "Summit Trading LLC",
+      "jurisdiction": "NY",
+      "issue_date": "2025-02-10",
+      "expiry_date": "2028-02-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-015.pdf",
+    "fields": {
+      "document_id": "demo-015",
+      "certificate_number": "DEMO-CERT-1014",
+      "seller": "Otter Rock Sports",
+      "buyer": "Lighthouse Commerce LLC",
+      "jurisdiction": "TX",
+      "issue_date": "2025-03-10",
+      "expiry_date": "2024-03-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": true
+  },
+  {
+    "file": "demo-016.pdf",
+    "fields": {
+      "document_id": "demo-016",
+      "certificate_number": "DEMO-CERT-1015",
+      "seller": "Copper Hill Electronics",
+      "buyer": "Beacon Retail LLC",
+      "jurisdiction": "WA",
+      "issue_date": "2025-04-10",
+      "expiry_date": "2028-04-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-017.pdf",
+    "fields": {
+      "document_id": "demo-017",
+      "certificate_number": "DEMO-CERT-1016",
+      "seller": "Aspen Grove Stores",
+      "buyer": "Summit Trading LLC",
+      "jurisdiction": "CO",
+      "issue_date": "2025-05-10",
+      "expiry_date": "2028-05-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  },
+  {
+    "file": "demo-018.pdf",
+    "fields": {
+      "document_id": "demo-018",
+      "certificate_number": "DEMO-CERT-1017",
+      "seller": "Maple Coast Logistics",
+      "buyer": "Lighthouse Commerce LLC",
+      "jurisdiction": "FL",
+      "issue_date": "2025-06-10",
+      "expiry_date": "2028-06-20",
+      "document_type": "EXEMPTION_CERTIFICATE_DEMO"
+    },
+    "expected_review": false
+  }
+]

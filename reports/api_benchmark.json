@@ -1,0 +1,8 @@
+{
+  "mode": "single-process sequential in-process TestClient, full search index rebuilt per request",
+  "docs": 18,
+  "queries": 100,
+  "p50_ms": 2.334,
+  "p95_ms": 2.611,
+  "limitations": "Local synthetic corpus only; no network, concurrency, OCR or semantic model in benchmark."
+}

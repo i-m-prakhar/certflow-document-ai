@@ -1,0 +1,74 @@
+[
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1000?",
+    "expected_document_id": "demo-001"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1001?",
+    "expected_document_id": "demo-002"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1002?",
+    "expected_document_id": "demo-003"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1003?",
+    "expected_document_id": "demo-004"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1004?",
+    "expected_document_id": "demo-005"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1005?",
+    "expected_document_id": "demo-006"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1006?",
+    "expected_document_id": "demo-007"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1007?",
+    "expected_document_id": "demo-008"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1008?",
+    "expected_document_id": "demo-009"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1009?",
+    "expected_document_id": "demo-010"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1010?",
+    "expected_document_id": "demo-011"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1011?",
+    "expected_document_id": "demo-012"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1012?",
+    "expected_document_id": "demo-013"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1013?",
+    "expected_document_id": "demo-014"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1014?",
+    "expected_document_id": "demo-015"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1015?",
+    "expected_document_id": "demo-016"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1016?",
+    "expected_document_id": "demo-017"
+  },
+  {
+    "query": "Which document mentions certificate number DEMO-CERT-1017?",
+    "expected_document_id": "demo-018"
+  }
+]
